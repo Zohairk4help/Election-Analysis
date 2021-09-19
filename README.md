@@ -50,7 +50,7 @@ The ananlysis on the CVS file has also shown the following results:
 -------------------------
 Please Click the image below for the results.
 
-<img src=Resources\Resultsconfirmation.png>
+<img src="Resources\Resultsconfirmation.png" width="50" height="50">
 
 -------------------------
 
